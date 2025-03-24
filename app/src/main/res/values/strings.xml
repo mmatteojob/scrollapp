@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ScrollApp</string>
+    <string name="default_error_message">Ops something went wrong!</string>
+    <string name="common_posts">Posts</string>
+    <string name="post_no">Post %1$s</string>
+    <string name="common_favorites">Favorites</string>
+    <string name="no_favorite_post_yet">Nessun post preferito</string>
+    <string name="common_search">Search</string>
+</resources>
